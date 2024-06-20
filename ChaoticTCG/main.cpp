@@ -1,5 +1,5 @@
 #include <SFML/Graphics.hpp>
-
+//added a comment
 int main()
 {
     sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
