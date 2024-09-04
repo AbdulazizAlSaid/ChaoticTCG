@@ -1,5 +1,10 @@
 #include <SFML/Graphics.hpp>
-//added a comment to the comment to test
+
+#include <SFML/Audio.hpp>
+#include <SFML/Network.hpp>
+#include <SFML/System.hpp>
+#include <SFML/Window.hpp>
+
 int main()
 {
     sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
